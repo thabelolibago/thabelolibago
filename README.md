@@ -25,7 +25,7 @@ Driven software Engineer Trainee seeking a challenging role in web and mobile de
     * Developed and maintained a Weather web application using .NET and Angular.
     * Developed a Library Management System using WPF.(C# and XML)
       
-* **The Academy of Accelerated Technology Education** - Software Engineer Student (March 2024 - Present)
+* **The Academy of Accelerated Technology Education** - Software Engineer Student (March 2024 - February 2025)
     * Completed rigorous training in software development fundamentals, including object-oriented programming, using C# mainly.
     * Completed Microsoft Azure Fundamentals Training.
 
