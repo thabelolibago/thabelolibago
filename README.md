@@ -10,9 +10,8 @@ Driven software Engineer Trainee seeking a challenging role in web and mobile de
 
 
 * **Programming Languages:**
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,py,java)](https://skillicons.dev)]
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,py,java)](https://skillicons.dev)
 
 * **Frameworks:**
     * 🌐 Angular
