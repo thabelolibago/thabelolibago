@@ -17,11 +17,7 @@ Driven software Engineer Trainee seeking a challenging role in web and mobile de
 
 
 * **Tools:**
-    * 🛠️ Node.js
-    * 🛠️ VS Code (Visual Studio Code)
-    * 🛠️ Figma
-    * 🛠️ Swagger
-    * 🛠️ Postman
+# [![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,figma,postman)](https://skillicons.dev)
 
 **Professional Experience**
 
