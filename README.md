@@ -37,18 +37,6 @@ Driven software Engineer Trainee seeking a challenging role in web and mobile de
 * 🚀 Highly motivated and results-oriented
 * 🎯 Ability to work independently and as part of a team
 
-**Projects**
-
-* **WeatherAppV2** 
-    * Developed a Weather web application that shows current weather, tomorrows weather, city map, city image and a seven's day weather of the city the user inputs or search for. Utilized Angular for the front- 
-      end, .NET for the back-end.
-    * Link: https://github.com/thabelolibago/WeatherAppV2.git
-      
-* **Library Management System** 
-    * Created a Library Management System that allows the user(admin) to perform basic CRUD operations. Employed used the windows presentation form(WPF) for the frond-end, built the back-end controllers using 
-      REST API and .NET, for the databased used SQL server.
-    * Link: https://github.com/thabelolibago/LibraryManagementSystem.git
-
 **Achievements & Awards**
 
 * Completed Microsoft Certified Azure Fundamentals from Microsoft.
