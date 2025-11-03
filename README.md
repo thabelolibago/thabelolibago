@@ -19,8 +19,19 @@ Driven software Engineer Trainee seeking a challenging role in web and mobile de
 * **Tools:**
 # [![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,figma,postman)](https://skillicons.dev)
 
-![Thabelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thabelolibago&show_icons=true&theme=radical)
-[![Thabelo's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=thabelolibago&theme=radical&show_icons=true)](https://github.com/thabelolibago)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=thabelolibago&show_icons=true&theme=radical" alt="Thabelo's GitHub stats" width="400"/>
+    </td>
+    <td>
+      <a href="https://github.com/thabelolibago">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thabelolibago&theme=radical&show_icons=true&layout=compact" alt="Thabelo's top languages" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 **Professional Experience**
