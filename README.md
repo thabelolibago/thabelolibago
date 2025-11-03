@@ -19,6 +19,8 @@ Driven software Engineer Trainee seeking a challenging role in web and mobile de
 * **Tools:**
 # [![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,figma,postman)](https://skillicons.dev)
 
+![Thabelo's GitHub stats](https://github-readme-stats.vercel.app/api?thabelolibago=anuraghazra&show_icons=true&theme=radical)
+
 **Professional Experience**
 
 * **Exaze Solutions** - Software Engineer Trainee (June 2024 - Present)
