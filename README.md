@@ -19,18 +19,24 @@ Driven software Engineer Trainee seeking a challenging role in web and mobile de
 * **Tools:**
 # [![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,figma,postman)](https://skillicons.dev)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=thabelolibago&show_icons=true&theme=radical" alt="Thabelo's GitHub stats" width="400"/>
-    </td>
-    <td>
-      <a href="https://github.com/thabelolibago">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thabelolibago&theme=radical&show_icons=true&layout=compact" alt="Thabelo's top languages" width="400"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thabelolibago&show_icons=true&theme=radical" 
+       alt="Thabelo's GitHub stats" 
+       width="500"/>
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/thabelolibago">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thabelolibago&theme=radical&show_icons=true&layout=compact" 
+         alt="Thabelo's top languages" 
+         width="500"/>
+  </a>
+
+</div>
+
 
 
 
