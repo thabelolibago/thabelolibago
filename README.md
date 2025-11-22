@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Thabelo Libago 
-
 # 💫 About Me:
 A highly proficient ICITP(SA) Software Engineer focused on building robust web solutions. Skilled in the full stack, utilizing Angular and Bootstrap on the frontend, and C# and ASP.NET Core Web APIs with SQL databases on the backend.
 
